@@ -38,8 +38,8 @@ Tecnologias com as quais trabalho, estudo ou exploro em meus projetos:
 
 ## 📫 Contato e perfil
 
-- **GitHub:** (https://github.com/admredsmoraes-eng)
-- **LinkedIn:** (br.linkedin.com/in/ruan-mateus-moraes-da-silva-a6256a26b) 
+- **GitHub:** https://github.com/admredsmoraes-eng
+- **LinkedIn:** https://br.linkedin.com/in/ruan-mateus-moraes-da-silva-a6256a26b
 
 ---
 
