@@ -1,4 +1,4 @@
-# Olá! Eu sou Ruan Mateus Moraes da Silva 👋
+# Olá! Eu sou Ruan Mateus Moraes 👋
 
 🎓 Estudante do Ensino Médio | Bolsista PIBIC-EM/CNPq  
 💻 Desenvolvimento de Software | Tecnologia Educacional | Inteligência Artificial
