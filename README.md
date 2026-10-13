@@ -2,6 +2,7 @@
 
 🎓 Estudante do Ensino Médio | Bolsista PIBIC-EM/CNPq  
 💻 Desenvolvimento de Software | Tecnologia Educacional | Inteligência Artificial
+👨‍💻 Hacker ético governamental
 
 Sou estudante e desenvolvedor interessado em criar soluções tecnológicas que contribuam para a educação, a organização de processos e a resolução de problemas reais.
 
